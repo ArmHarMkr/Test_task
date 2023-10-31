@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FlexobaseTest/1.0.0": {
+        "runtime": {
+          "FlexobaseTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlexobaseTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

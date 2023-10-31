@@ -1,0 +1,14 @@
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.AssemblyInfoInputs.cache
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.AssemblyInfo.cs
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.csproj.CoreCompileInputs.cache
+E:\.Net projects\FlexobaseTest\FlexobaseTest\bin\Debug\net6.0\FlexobaseTest.exe
+E:\.Net projects\FlexobaseTest\FlexobaseTest\bin\Debug\net6.0\FlexobaseTest.deps.json
+E:\.Net projects\FlexobaseTest\FlexobaseTest\bin\Debug\net6.0\FlexobaseTest.runtimeconfig.json
+E:\.Net projects\FlexobaseTest\FlexobaseTest\bin\Debug\net6.0\FlexobaseTest.dll
+E:\.Net projects\FlexobaseTest\FlexobaseTest\bin\Debug\net6.0\FlexobaseTest.pdb
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.dll
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\refint\FlexobaseTest.dll
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.pdb
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\FlexobaseTest.genruntimeconfig.cache
+E:\.Net projects\FlexobaseTest\FlexobaseTest\obj\Debug\net6.0\ref\FlexobaseTest.dll
